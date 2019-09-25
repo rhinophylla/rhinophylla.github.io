@@ -4,7 +4,7 @@
 
 ### Data Science
 
-[Analysis of r/progresspics](https://github.com/rhinophylla/r_progesspics
+[Analysis of r/progresspics](https://github.com/rhinophylla/r_progesspics)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
