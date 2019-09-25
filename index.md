@@ -4,14 +4,13 @@
 
 ### Data Science
 
-[Analysis of r/progresspics](https://github.com/rhinophylla/r_progesspics)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Analysis of r/progresspics](https://github.com/rhinophylla/r_progesspics)
 
 ---
 
 ### Python
 
-- [Python implementation of the Crazy Eight card game](https://github.com/rhinophylla/Crazy_Eights)
+- [Python implementation of the card game Crazy Eights](https://github.com/rhinophylla/Crazy_Eights)
 
 ---
 
