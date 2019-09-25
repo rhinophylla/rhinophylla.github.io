@@ -7,9 +7,9 @@
 - [Analysis of posts to r/progresspics](https://github.com/rhinophylla/r_progesspics)
 
   r/progresspics is a weight change forum where post titles contain demographic information about the users. From the post 
-  titles I extracted features such as sex, age, height, starting weight, and ending weight as well as the duration of weight
-  change. I used a linear regression analysis to see if variability in the amount of weight lost could be explained by any
-  of the extracted features.  A second linear regression analysis looked to see if variablity in post popularity could be
+  titles, I extracted features such as sex, age, height, starting weight, and ending weight as well as the duration of weight
+  change. I used a linear regression analysis to see if variability in the amount of weight loss could be explained by any
+  of the extracted features.  A second linear regression analysis looked to see if variability in post popularity could be
   explained by the extracted features or by additional features describing the posts themselves.  
   
 ---
