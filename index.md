@@ -12,6 +12,14 @@
   of the extracted features.  A second linear regression analysis looked to see if variability in post popularity could be
   explained by the extracted features or by additional features describing the posts themselves.  
   
+- [BiologyFinder](https://github.com/rhinophylla/BiologyFinder)
+
+  BiologyFinder is a tool aimed at new biology graduate students or postdoctoral researchers who have just joined a lab and
+  are looking to understand the research of the lab. It is written in Python and relies on the Python library, Biopython, to
+  interact with the API of NCBI's PubMed, a biology literature database. It uses a shared citation history to identify
+  biologists doing work similar to a user-named biologist. It then generates a recommended reading list containing the papers
+  most frequently cited by the identified group of biologists in the subfield.
+  
 ---
 
 ### Python
