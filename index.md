@@ -22,6 +22,18 @@
   
 ---
 
+### Tableau
+
+- [Calculating and visualizing the 14 day COVID case rate for counties in Texas](https://github.com/rhinophylla/TX_14day_case_rate)
+
+  I wrote a Python program that calculates the 14 day COVID case rate for each county in Texas using data on cumulative COVID cases 
+  downloaded from the Texas Department of Health Services website. The results are output as a .csv file which I used to create a 
+  Tableau visualization that shows how the case rate changes over time. Users can select TX counties of interest as well as the state
+  as a whole to examine. 
+  [Texas county 14 day COVID case rate Tableau vis](https://public.tableau.com/profile/amanda.wright#!/vizhome/Texascounties14-dayCOVIDcaserate/Sheet1)
+  
+---
+
 ### Python
 
 - [Python implementation of the card game Crazy Eights](https://github.com/rhinophylla/Crazy_Eights)
