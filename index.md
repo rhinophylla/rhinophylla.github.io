@@ -30,7 +30,8 @@
   downloaded from the Texas Department of Health Services website. The results are output as a .csv file which I used to create a 
   Tableau visualization that shows how the case rate changes over time. Users can select TX counties of interest as well as the state
   as a whole to examine. 
-  [Texas county 14 day COVID case rate Tableau vis](https://public.tableau.com/profile/amanda.wright#!/vizhome/Texascounties14-dayCOVIDcaserate/Sheet1)
+  
+  [Texas county 14 day COVID case rate Tableau viz](https://public.tableau.com/profile/amanda.wright#!/vizhome/Texascounties14-dayCOVIDcaserate/Sheet1)
   
 ---
 
